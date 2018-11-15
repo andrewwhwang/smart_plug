@@ -91,7 +91,7 @@ Most hardware components can probably be found lying around.
 
     add this line to the end on the file:
 
-    `@reboot sudo python3 /path/to/python/script/asdf.py &`
+    `@reboot sudo python3 /path/to/python/script/mqtt_switch.py &`
 
 4.  **Setup MQTT broker (on separate computer preferably)**
     
