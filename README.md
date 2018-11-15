@@ -103,7 +103,7 @@ Most hardware components can probably be found lying around.
 
     Several ways you can accomplish [this](https://www.eclipse.org/paho/downloads.php). The easiest way is to use commandline:
 
-    `mosquitto_pub  [-h hostname] [-p port number] [-u username] [-P password] -t 'test/topic' -m 'helloWorld'`
+    `mosquitto_pub  -h BROKER_IP_ADDRESS -p 1883 -u username -P password -t 'switch/0' -m '0'`
 -----
 <img src="https://i.imgur.com/KSue9d5.jpg" height="350"> &nbsp; <img src="https://i.imgur.com/5YXorCs.jpg" height="350">
 
