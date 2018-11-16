@@ -8,7 +8,8 @@
 * Easily setup schedules 
 * Cheap (I only spent $9)
 
-<img src="https://i.imgur.com/srThsBd.jpg" width="250"> &nbsp; <img src="https://i.imgur.com/hTha7aK.jpg" width="250">
+<img src="https://i.imgur.com/srThsBd.jpg" height="450"> &nbsp; 
+<img src="https://i.imgur.com/XdUgAAk.gif"/>
 
 ## Overview:
 ---------
