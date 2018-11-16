@@ -9,7 +9,7 @@
 * Cheap (I only spent $9)
 
 <img src="https://i.imgur.com/srThsBd.jpg" height="400"> &nbsp; 
-<img src="https://i.imgur.com/XdUgAAk.gif" height="400"/>
+<img src="https://i.imgur.com/cNloybH.gif" height="400"/>
 
 ## Overview:
 ---------
