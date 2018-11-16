@@ -1,6 +1,12 @@
 # DIY Smart Plug
 
-How to make a cheap discrete remote controlled two-channel power outlet.
+### Make a cheap discrete remote controlled two-channel power outlet.
+
+* Remote controlled
+* Control from anywhere
+* Control both sockets independently
+* Easily setup schedules 
+* Cheap (I only spent $9)
 
 <img src="https://i.imgur.com/srThsBd.jpg" width="250"> &nbsp; <img src="https://i.imgur.com/hTha7aK.jpg" width="250">
 
