@@ -2,14 +2,14 @@
 
 ### Make a cheap discrete remote controlled two-channel power outlet.
 
+<img src="https://i.imgur.com/srThsBd.jpg" height="300"> &nbsp; 
+<img src="https://media.giphy.com/media/29HVwXORm5pwl53DaS/giphy.gif" height="300"/>
+
 * Remote controlled
 * Control from anywhere
 * Control both sockets independently
 * Easily setup schedules 
 * Cheap (I only spent $9)
-
-<img src="https://i.imgur.com/srThsBd.jpg" height="300"> &nbsp; 
-<img src="https://media.giphy.com/media/29HVwXORm5pwl53DaS/giphy.gif" height="300"/>
 
 ## Overview:
 ---------
